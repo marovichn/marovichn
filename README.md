@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Web Development
 - 🌱 I'm also currently learning Computer and system networks administration
 - ⭐ Always looking for ways to improve. 
-- “All we have to decide is what to do with the time that is given us.” -  J.R.R. Tolkein
+- “Life is just a game we all play together, enjoy it.”
 - 
 - 📫 Reach me: nikolamarovic.contact.me@gmail.com
 
