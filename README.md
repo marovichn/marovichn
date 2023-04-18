@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marovichn
-- 👀 I’m interested in Computer science, which i'm studying and in web development 
+- 👀 I’m interested in Computer science and in web development currently.
 - 👀 I'm looking forward to learning appDev, Data Science, Machine Learning, AI and also Cybersecurity 🤓
 - 🌱 I’m currently learning Web Development
 - 🌱 I'm also currently learning Computer and system networks administration
