@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @marovichn
-- 👀 I’m interested in Computer science and in web development currently.
-- 👀 I'm looking forward to learning appDev, Data Science, Machine Learning, AI and also Cybersecurity 🤓
+- 👀 I’m interested in Computer science and web development currently.
+- 👀 I'm looking forward to learning app dev, Data Science, Machine Learning, AI, and Cybersecurity 🤓
 - 🌱 I’m currently learning Web Development
-- 🌱 I'm also currently learning Computer and system networks administration
+- 🌱 I'm also learning computer and system networks administration
 - ⭐ Always looking for ways to improve. 
-- “Life is just a game we all play together, enjoy it.”
-- 
+
 - 📫 Reach me: nikolamarovic.contact.me@gmail.com
 
 <!---
