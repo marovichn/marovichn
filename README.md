@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @marovichn
-- 👀 I’m interested in Computer science and web development currently.
-- 👀 I'm looking forward to learning app dev, Data Science, Machine Learning, AI, and Cybersecurity 🤓
+- 👋 Hi, I’m Nikola Marović.
+- 👀 I’m interested in Software Engineering and Web Development.
+- 👀 I'm looking forward to learning  Data Science, Machine Learning and Cybersecurity 🤓
 - 🌱 I’m currently learning Web Development
-- 🌱 I'm also learning computer and system networks administration
+- 🌱 I'm also learning computer and system network administration
 - ⭐ Always looking for ways to improve. 
 
 - 📫 Reach me: nikolamarovic.contact.me@gmail.com
