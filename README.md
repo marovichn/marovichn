@@ -5,7 +5,7 @@
 - 🌱 I went to high school for computer and system network administration
 - ⭐ Always looking for ways to improve. 
 
-- 📫 Reach me: nikolamarovic.contact.me@gmail.com
+- 📫 Reach me: nikolamarovic.11@gmail.com
 
 <!---
 marovichn/marovichn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
