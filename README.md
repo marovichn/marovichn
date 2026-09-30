@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Nikola Marović.
+- 👋 Hi, I’m Nikola Marović, a Faculty of Technical Sciences student in Applied Software Engineering in Infrastructure at Novi Sad University.
 - 👀 I’m interested in Software Engineering and Web Development.
-- 👀 I'm looking forward to learning  Data Science, Machine Learning and Cybersecurity 🤓
-- 🌱 I’m currently learning Web Development
-- 🌱 I'm also learning computer and system network administration
+- 👀 I'm looking forward to learning  Data Science, Machine Learning, and Cybersecurity 🤓
+- 🌱 I’m a Full-stack Web Developer
+- 🌱 I went to high school for computer and system network administration
 - ⭐ Always looking for ways to improve. 
 
 - 📫 Reach me: nikolamarovic.contact.me@gmail.com
