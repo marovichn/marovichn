@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://nikolalmn.com"><img src="https://img.shields.io/badge/Portfolio-nikolalmn.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000&color=ffffff" /></a>
+  <a href="https://nikolalmn.com/portfolio"><img src="https://img.shields.io/badge/Portfolio-nikolalmn.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000&color=ffffff" /></a>
   <a href="https://github.com/marovichn"><img src="https://img.shields.io/badge/GitHub-marovichn-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=ffffff" /></a>
   <a href="mailto:nikolamarovic.11@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000&color=ffffff" /></a>
 </p>
